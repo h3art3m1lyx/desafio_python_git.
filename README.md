@@ -1,0 +1,1 @@
+O programa criado mostra o nome, a idade, a linguagem de programação favorita e calcula o ano atual menos a idade do usuário, mostrando o ano de nascimento.
