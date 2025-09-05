@@ -1,5 +1,6 @@
-nome="Emily"
-idade = 15
-linguagem_de_programação_favorita = 'python'
-mensagem = f"Oi meu nome é {nome}, tenho {idade} anos de idade e minha linguagem de programação favorita é {linguagem_de_programação_favorita}"
-print(mensagem)
+nome= input('Seu nome é? :')
+idade = int(input('Sua idade é? ;'))
+linguagem = input('Linguagem favorita?: ')
+ano_atual = 2025
+ano_nascimento = ano_atual - idade
+print(f'Meu nome: {nome}\n Minha idade: {idade}\n Linguagem favorita: {linguagem}\n Ano de nascimento: {ano_nascimento}')
